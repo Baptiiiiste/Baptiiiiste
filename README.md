@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/780456202298720276/810591724258852936/README.MD_Photo_2.png)
+[](https://i.imgur.com/cLWuXp0.png?1)
 
 ### ⭐️ Informations 
 - Using Node JS
