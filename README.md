@@ -2,7 +2,8 @@
 
 ### ⭐️ Informations 
 - 🇫🇷 From France
-- Young Apprentice Developer
+- Always learning
+- Young developper
 - Using NodeJS
 
 ### ⭐️ Social Media
