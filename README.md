@@ -1,4 +1,4 @@
-[](https://cdn.discordapp.com/attachments/780456202298720276/810599985947082822/README.MD_Photo_3.png)
+![Imgur](https://i.imgur.com/cLWuXp0.png?1)
 
 ### ⭐️ Informations 
 - Using Node JS
