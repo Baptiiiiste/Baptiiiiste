@@ -1,4 +1,4 @@
-[](https://i.imgur.com/cLWuXp0.png?1)
+[](https://imgur.com/cLWuXp0)
 
 ### ⭐️ Informations 
 - Using Node JS
