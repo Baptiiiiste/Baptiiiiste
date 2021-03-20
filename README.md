@@ -7,5 +7,6 @@
 - Using NodeJS
 
 ### ⭐️ Social Media
-<a href="https://twitter.com/Nojii_">![](https://i.imgur.com/Yvsvwwy.png)</a>
+<a href="https://twitter.com/Nojii_">![](https://imgur.com/eDIAeng)</a>
+<img>https://imgur.com/Zkvtbsl</img>
 
