@@ -8,4 +8,4 @@
 
 ### ⭐️ Social Media
 <a href="https://twitter.com/Nojii_">![](https://imgur.com/eDIAeng)</a>
-
+<a href="https://discord.com/">![](https://imgur.com/eDIAeng)</a>
