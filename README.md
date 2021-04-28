@@ -7,5 +7,5 @@
 - Using NodeJS
 
 ### ⭐️ Social Media
-🐤 Twitter: @Nojii_
+🐤 Twitter: @Nojii_\n
 💙 Discord: Baptiste#5549
