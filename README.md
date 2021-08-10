@@ -2,9 +2,8 @@
 
 ### ⭐️ Informations 
 - From France
-- Always learning
-- Young developper
-- Using NodeJS
+- 17 yo
+- IUT Informatique - Clermont-Ferrand
 
 ### ⭐️ Social Media
 - Twitter 🐤 @Nojii_
