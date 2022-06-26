@@ -2,7 +2,7 @@
 
 ### ⭐️ Informations 
 - From France
-- 17 yo
+- 18 yo
 - IUT Informatique - Clermont-Ferrand
 
 ### ⭐️ Social Media
