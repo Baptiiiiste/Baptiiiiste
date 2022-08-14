@@ -8,9 +8,9 @@
 - IUT Informatique - Clermont-Ferrand
 
 ### ⭐️ Social Media
-- Twitter 🐤 @Nojii_
+- Twitter 🐤 @nojii_
 - Discord 📄 Baptiste#5549
-- Twitch 🎙️ .tv/Nojii_
+- Twitch 🎙️ .tv/nojii_
 
 
 
