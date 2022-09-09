@@ -13,7 +13,7 @@
 
 <div align="center" >
   <h3> ⭐️ Informations </h3>
-  <p>Baptiste, 18 yo French guys, studying at Clermont-Ferrand, IUT Informatique</p>
+  <p>Baptiste, 18 yo French guy studying at Clermont-Ferrand, IUT Informatique</p>
 </div>
 
 <div align="center" >
