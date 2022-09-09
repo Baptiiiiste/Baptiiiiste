@@ -11,15 +11,18 @@
 </a>
 </div>  
 
-### ⭐️ Informations 
-- From France
-- 18 yo
-- IUT Informatique - Clermont-Ferrand
+<div align="center" >
+  <h3> ⭐️ Informations </h3>
+  <p>Baptiste, 18 yo French guys, studying at Clermont-Ferrand, IUT Informatique</p>
+</div>
 
-### ⭐️ Social Media
-- Twitter 🐤 @nojii_
-- Discord 📄 Baptiste#5549
-- Twitch 🎙️ .tv/nojii_
+<div align="center" >
+  <h3> ⭐️ Social Media </h3>
+  <p>Twitter 🐤 @nojii_</br>Discord 📄 Baptiste#5549</br>Twitch 🎙️ .tv/nojii_</p>
+</div>
 
+<div align="center" >
+  <h3> ⭐️ Stats </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=baptiiiiste&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=baptiiiiste&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
