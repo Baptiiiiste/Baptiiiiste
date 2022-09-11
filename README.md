@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" >
-  <h3> ⭐️ Social Media </h3>
+  <h3> ⭐️ Social Medias </h3>
   <p>Twitter 🐤 @nojii_</br>Discord 📄 Baptiste#5549</br>Twitch 🎙️ .tv/nojii_</p>
 </div>
 
