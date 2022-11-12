@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<h3 align="center">I'm Baptiste, a 18 yo French developper from France</h3>
+<h3 align="center">I'm Baptiste, an 18 yo developper from France</h3>
 <h3>🧩 My Open Source Projects: </h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
