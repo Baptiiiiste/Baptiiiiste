@@ -12,11 +12,12 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 Personal Projects:
-- [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself) (Marketplace website) [React & Node & Mongodb]
+- [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself) (Marketplace website) [React & Node & Mongodb] /!\ in dev
 - [newPizza()](https://github.com/Baptiiiiste/newPizza) (Windows app to sell pizzas) [C#]
+- [ToDoList](https://github.com/Baptiiiiste/ToDoList) (Todo list website) [PHP] /!\ in dev
 
 School Projects:
-- [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) [Node & Mongodb]
+- [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) [Node & Mongodb] /!\ in dev
 
 
 <h3>📞 Social Medias: </h3>
