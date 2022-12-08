@@ -16,7 +16,7 @@
 
 Personal Projects:
 - [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) [Node & Mongodb] /!\ in dev
-- [nojii.fr](https://github.com/Baptiiiiste/nojii.fr) (Portfolio) [Nextjs] /!\ in dev
+<!-- - [nojii.fr](https://github.com/Baptiiiiste/nojii.fr) (Portfolio) [Nextjs] /!\ in dev -->
 
 School Projects:
 - [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself) (Marketplace website) [React & Node & Mongodb] /!\ in dev
