@@ -21,7 +21,7 @@ Personal Projects:
 School Projects:
 - [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself) (Marketplace website) [React & Node & Mongodb] /!\ in dev
 - [newPizza()](https://github.com/Baptiiiiste/newPizza) (Windows app to sell pizzas) [C#]
-- [ToDoList](https://github.com/Baptiiiiste/ToDoList) (Todo list website) [PHP] /!\ in dev
+- [ToDoList](https://github.com/Baptiiiiste/ToDoList) (Todo list website) [PHP]
 
 <h3>📞 Social Medias: </h3>
 
