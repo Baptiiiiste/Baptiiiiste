@@ -15,14 +15,13 @@
 
 
 Personal Projects:
-- [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) [Node & Mongodb] /!\ in dev
-<!-- - [nojii.fr](https://github.com/Baptiiiiste/nojii.fr) (Portfolio) [Nextjs] /!\ in dev -->
+- [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) <img src="img/js.png" width="16px" height="16px"> /!\ in dev
 
 School Projects:
-- [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself) (Marketplace website) [React & Node & Mongodb]
-- [newPizza()](https://github.com/Baptiiiiste/newPizza) (Windows app to sell pizzas) [C#]
-- [ToDoList](https://github.com/Baptiiiiste/ToDoList) (Todo list website) [PHP]
-- [MiniJeux](https://github.com/Baptiiiiste/MiniJeux) (MiniGames website) [React & Node & Mongodb] /!\ in dev
+- [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself): Marketplace website <img src="img/js.png" width="16px" height="16px"> <img src="img/react.png" width="16px" height="16px">
+- [newPizza()](https://github.com/Baptiiiiste/newPizza): Windows app to sell pizzas <img src="img/csharp.png" width="16px" height="16px">
+- [ToDoList](https://github.com/Baptiiiiste/ToDoList): Todo list website <img src="img/php.png" width="16px" height="16px">
+- [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="16px" height="16px"> /!\ in dev
 
 <h3>📞 Social Medias: </h3>
 
