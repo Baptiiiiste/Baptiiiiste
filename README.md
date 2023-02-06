@@ -15,7 +15,7 @@
 
 
 Personal Projects:
-- [Awake](https://github.com/Baptiiiiste/Awake): Discord bot<img src="img/js.png" width="15px" height="15px"> ⚠️in dev
+- [Awake](https://github.com/Baptiiiiste/Awake): Discord bot <img src="img/js.png" width="15px" height="15px"> ⚠️in dev
 
 School Projects:
 - [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself): Marketplace website <img src="img/js.png" width="15px" height="15px"> <img src="img/react.png" width="17px" height="15px">
