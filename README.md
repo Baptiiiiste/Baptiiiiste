@@ -15,13 +15,13 @@
 
 
 Personal Projects:
-- [Awake](https://github.com/Baptiiiiste/Awake) (Discord bot) <img src="img/js.png" width="15px" height="15px"> /!\ in dev
+- [Awake](https://github.com/Baptiiiiste/Awake): Discord bot<img src="img/js.png" width="15px" height="15px"> ⚠️in dev
 
 School Projects:
 - [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself): Marketplace website <img src="img/js.png" width="15px" height="15px"> <img src="img/react.png" width="17px" height="15px">
 - [newPizza()](https://github.com/Baptiiiiste/newPizza): Windows app to sell pizzas <img src="img/csharp.png" width="15px" height="15px">
 - [ToDoList](https://github.com/Baptiiiiste/ToDoList): Todo list website <img src="img/php.png" width="22px" height="15px">
-- [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px"> /!\ in dev
+- [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px"> ⚠️in dev
 
 <h3>📞 Social Medias: </h3>
 
