@@ -26,7 +26,7 @@ School Projects:
 - [newPizza()](https://github.com/Baptiiiiste/newPizza): Windows app to sell pizzas <img src="img/csharp.png" width="15px" height="15px">
 - [ToDoList](https://github.com/Baptiiiiste/ToDoList): Todo list website <img src="img/php.png" width="22px" height="15px">
 - [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px">
-- [RoadTrip](https://github.com/Baptiiiiste/MiniJeux): Android app to plan your trips <img src="img/kotlin.png" width="15px" height="15px"> <img src="img/android.png" width="15px" height="15px">
+- [RoadTrip](https://github.com/Baptiiiiste/MiniJeux): Android app to plan your trips <img src="img/kotlin.png" width="15px" height="15px"><img src="img/android.png" width="30px" height="20px">
 
 
 <h3>📞 Social Medias: </h3>
