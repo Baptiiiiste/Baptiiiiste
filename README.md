@@ -25,8 +25,10 @@ School Projects:
 - [SellYourself.fr](https://github.com/Baptiiiiste/SellYourself): Marketplace website <img src="img/js.png" width="15px" height="15px"> <img src="img/react.png" width="17px" height="15px">
 - [newPizza()](https://github.com/Baptiiiiste/newPizza): Windows app to sell pizzas <img src="img/csharp.png" width="15px" height="15px">
 - [ToDoList](https://github.com/Baptiiiiste/ToDoList): Todo list website <img src="img/php.png" width="22px" height="15px">
-<!-- - [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px"> -->
 - [RoadTrip](https://github.com/Baptiiiiste/RoadTrip): Android app to plan your trips <img src="img/kotlin.png" width="15px" height="15px"><img src="img/android.png" width="23px" height="15px">
+
+<!-- - [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px"> -->
+
 
 
 <h3>📞 Social Medias: </h3>
