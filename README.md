@@ -27,11 +27,4 @@ School Projects:
 
 
 
-<h3>📞 Social Medias: </h3>
-
-- Twitter: [@nojii_](https://twitter.com/nojii_)
-- Discord: Baptiste#5549
-- Twitch: [nojii_](https://www.twitch.tv/nojii_)
-- Website: [nojii.fr](https://nojii.fr)
-
 
