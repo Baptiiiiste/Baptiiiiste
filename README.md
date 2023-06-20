@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">I'm Baptiste, a 19 yo student & developper from France</h3>
@@ -22,7 +23,7 @@ School Projects:
 - [newPizza()](https://github.com/Baptiiiiste/newPizza): Windows app to sell pizzas <img src="img/csharp.png" width="15px" height="15px">
 - [ToDoList](https://github.com/Baptiiiiste/ToDoList): Todo list website <img src="img/php.png" width="22px" height="15px">
 - [RoadTrip](https://github.com/Baptiiiiste/RoadTrip): Android app to plan your trips <img src="img/kotlin.png" width="15px" height="15px"><img src="img/android.png" width="23px" height="15px">
-
+-->
 <!-- - [MiniJeux](https://github.com/Baptiiiiste/MiniJeux): MiniGames website <img src="img/nextjs.png" width="15px" height="15px"> -->
 
 
