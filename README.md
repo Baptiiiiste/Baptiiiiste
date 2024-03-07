@@ -4,6 +4,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Baptiiiiste&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://twitter.com/Baptiiiiste_"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="50" width="210" alt="Twitter" /></a>
+  <a href="https://twitter.com/Baptiiiiste_"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="50" width="210" alt="Twitter" /></a><br/>
   <span>halfway happy</span>
 </p>
